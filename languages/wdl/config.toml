@@ -1,0 +1,4 @@
+name = "WDL"
+grammar = "wdl"
+path_suffixes = ["wdl"]
+line_comments = ["# ", "## "]
