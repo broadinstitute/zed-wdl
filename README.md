@@ -23,5 +23,5 @@ in the [Zed](https://zed.dev) code editor. Currently supports WDL versions 1.0 a
 ## Roadmap
 
 I am considering to use the [`sprocket analyzer`](https://github.com/stjude-rust-labs/sprocket) LSP server for WDL.
-However, it currently only supports push diagnostics, which is 
+However, it currently only supports pull diagnostics, which is 
 [not yet supported by Zed](https://github.com/zed-industries/zed/pull/19230).
