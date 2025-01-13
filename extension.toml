@@ -8,7 +8,7 @@ repository = "https://github.com/broadinstitute/zed-wdl"
 
 [grammars.wdl]
 repository = "https://github.com/broadinstitute/tree-sitter-wdl"
-commit = "f1f907708af0914763dab663d79d204ceff1017e"
+commit = "e0ea84c0a38fac0122c2bf0692806250b83995fe"
 
 [language_servers.wdl]
 languages = ["WDL"]
