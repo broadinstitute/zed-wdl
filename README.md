@@ -13,7 +13,7 @@ in the [Zed](https://zed.dev) code editor. Currently supports WDL versions 1.0 a
 
 ## Preview
 
-![Screenshot](doc/screenshot.png)
+<img src="doc/screenshot.png" alt="Screenshot of WDL code in Zed" width="750">
 
 ## Related repositories
 
