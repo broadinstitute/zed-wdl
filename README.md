@@ -22,6 +22,7 @@ in the [Zed](https://zed.dev) code editor. Currently supports WDL versions 1.0 a
 
 ## Roadmap
 
-I am considering using the [`sprocket analyzer`](https://github.com/stjude-rust-labs/sprocket) LSP server for WDL.
+* Better LSP server: I am considering using the [`sprocket analyzer`](https://github.com/stjude-rust-labs/sprocket) LSP server for WDL.
 However, it currently only supports pull diagnostics, which is 
 [not yet supported by Zed](https://github.com/zed-industries/zed/pull/19230).
+* Write tree sitter queries for WDL document outline in Zed
